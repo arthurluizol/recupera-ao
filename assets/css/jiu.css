@@ -1,0 +1,39 @@
+*{
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.d-block {
+    height: 20rem;
+}
+
+.img{
+    height:  20rem;
+}
+
+.card{
+    width: 18rem;
+}
+.card-body{
+    width: 18rem;
+    height: 9rem;
+}
+
+
+.card-img-top{
+    width: 10rem;
+    height: 10rem;
+}
+
+.col{ 
+    height: 30rem;
+}
+
+.datas{
+    width: 30rem;
+}
+
+main{
+    height: 40rem;
+}
